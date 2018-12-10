@@ -7,6 +7,7 @@ un elenco:
 - - sotto punto
 - secondo
 - terzo
+- quarto
 
 | A  | B  |
 |---|---|
